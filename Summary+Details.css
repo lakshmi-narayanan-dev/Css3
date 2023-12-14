@@ -11,3 +11,41 @@ Syntax:
   <p> Description to hide/show </p>
 </details>
 
+Compatibility to all major browsers -> https://caniuse.com/?search=summary 
+
+details open denotes open it by refresh or default.
+
+
+
+-----------------------------------------------
+Example Code:
+
+Html
+-----
+<div class='Acc1'>
+
+  <details open >
+    <summary> Heading 1 </summary>
+    <div> Description 1 </div>
+  </detials>
+
+  <details>
+    <summary> Heading 2 </summary>
+    <div> Description 2 </div>
+  </detials>
+
+</div>
+
+Css3
+----
+
+.Acc1 {
+  width , max-width , margin 
+}
+
+.Acc1 details div {
+  padding , borders except top 
+}
+
+
+-----------------------------------------------
