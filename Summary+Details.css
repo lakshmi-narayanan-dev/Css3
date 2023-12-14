@@ -21,6 +21,10 @@ Calc (expression) = calc(15rem - 20%)
 
 Summary must be 1st element to the details tag
 
+Const & let is preferred for DOM Declaration
+
+
+
 -----------------------------------------------
 Example Code:
 
@@ -70,5 +74,28 @@ summary:before{
 detials[open] summary {
   bg , arrow direction change
 }
+
+
+Javascript
+----------
+//Get all summary elements
+const accordian = document.querySelectorAll('Summary');
+
+//All summary element all to event listener
+accordian.forEach ((summary) => {
+	summary.addEventListener ("click" , openOrClose);
+});
+
+//parentNode for summary is details , if details is open then remove the details close which is not belong to this summary
+function openOrClose() {
+	accordian.forEach((summary) => {
+		let details = summary.parentNode;
+
+		if(details != this.parentNode) { detail.removeAttribute('open');} 
+
+	});
+
+}
+
 
 -----------------------------------------------
