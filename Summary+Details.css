@@ -14,8 +14,10 @@ Syntax:
 Compatibility to all major browsers -> https://caniuse.com/?search=summary 
 
 details open denotes open it by refresh or default.
+marker show default for details & summary tags
+list-style : none , also helps in removing the arrow before the summary heading
 
-
+Calc (expression) = calc(15rem - 20%) 
 
 -----------------------------------------------
 Example Code:
@@ -47,5 +49,24 @@ Css3
   padding , borders except top 
 }
 
+summary::-webkit-details-marker , summary::marker {
+	display: none;
+}
+
+summary {
+	list-style: none;
+  cursor : pointer 
+  padding 
+}
+
+
+summary:before{
+  arrow custom 
+  content ^ with bg color padding
+}
+
+detials[open] summary {
+  bg , arrow direction change
+}
 
 -----------------------------------------------
