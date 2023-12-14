@@ -19,6 +19,8 @@ list-style : none , also helps in removing the arrow before the summary heading
 
 Calc (expression) = calc(15rem - 20%) 
 
+Summary must be 1st element to the details tag
+
 -----------------------------------------------
 Example Code:
 
