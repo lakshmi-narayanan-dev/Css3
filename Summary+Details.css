@@ -1,0 +1,13 @@
+Html tags provides two tags for accordian Functionality.
+
+Details + Summary
+
+Summary is the heading for the detailed element. Click the summary section to hide/show details
+
+Syntax:
+
+<details>
+  <summary>Heading</summary>
+  <p> Description to hide/show </p>
+</details>
+
