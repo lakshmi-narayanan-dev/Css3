@@ -29,9 +29,18 @@ document.getElementByTagName("title")[0].innerHTML = "JS inner Html title" ;
 Jquery => $("title").html("Title name Jquery");
 $(.class).html() - class element / $(#id).html() 
 
+-------------------------------------
+Change tab name when its not active
+----------------------------------
+let tabname = document.title; 
 
+window.addEventListener("blur" , () => {
+    document.title = 'its Not active';
+});
 
-
+window.addEventListener("focus" , () => {
+    document.title = "Its on Active";
+});
 
 
 
