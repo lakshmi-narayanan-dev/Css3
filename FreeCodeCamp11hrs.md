@@ -15,7 +15,7 @@ Html is Building Structure & Css is the paint & carpets
 Browser - Chrome , firefox , edge , Brave , safari[iOS]
 Vs code - Html css extension - Live Server extension
 
-### **Lession 01 - Types of Styling**
+### `**Lession 01 - Types of Styling**`
 `! in vs code for html predefined structure to show`
 - inline
 - internal
