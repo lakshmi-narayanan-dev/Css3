@@ -63,6 +63,11 @@ id selector >> class selector >> element selector
 ### Colors
 140 standard color names available in [html/vscode](https://www.w3schools.com/colors/colors_names.asp) 
 
+**Types of color css**
+- Color name = orange blue
+- hexadecimal code = #fff000 [0-9] + [a-f]
+- rgb (200, 255 , 0) = [0-255]
+- rgba (200. 255 , 0 , .5) = opacity [0 to 1 , decimal value accepted]
 
 
 
