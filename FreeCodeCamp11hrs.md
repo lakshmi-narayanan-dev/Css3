@@ -71,6 +71,8 @@ id selector >> class selector >> element selector
 - Color pallete selection with hovering over css color properties with opacity
 - hsl (200, 255 , 0) = [0-255] [0-100%] = hue saturation lightness
 
+Hue - degree of color [0 to 359] , Saturation - shade of gray value [0 to 100%] , Lightness - opacity [0 to 100%]
+
 https://coolors.co/ - colors contrast trending vectors checking
 
 
