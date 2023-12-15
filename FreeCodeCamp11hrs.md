@@ -27,7 +27,8 @@ link rel="author" =>
 
 ### css code syntax:
 selector (class,id,tag) {
-property (font-size, display , position) : property-value (50px , 10rem , 100% , red , #kvnk)
+property (font-size, display , position) : property-value (50px , 10rem , 100% , red , #kvnk) ;
+}
 
 
 
