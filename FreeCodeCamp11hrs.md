@@ -1,11 +1,8 @@
-.markdown-body hr{
-display : none;
-}
 
 
 ------------------------------------------------------------------------------------------------------
 # [Moz-Dev](https://developer.mozilla.org/en-US/) - refer for all developers about web related content 
-------------------------------------------------------------------------------------------------------
+
 ### [Download any website to zip](https://www.google.com/search?channel=fs&client=ubuntu-sn&q=save+web+2+zip)
 -------------------------------------------------------------------------------------------------------
 
