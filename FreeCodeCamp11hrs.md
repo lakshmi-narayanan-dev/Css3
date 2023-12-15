@@ -5,7 +5,7 @@
 ## **Prerequisites**
 
 Browser - Chrome , firefox , edge , Brave , safari[iOS]
-Vs code - Html css extension - Live Server 
+Vs code - Html css extension - Live Server extension
 
 ------------------------------------------------------------------------------------------------------
 ## **Lession 01**
@@ -18,6 +18,8 @@ Types of Styling:
 - External
 
 Style Applies on order of precedence
+
+link rel="stylesheet" => 
 
 
 ------------------------------------------------------------------------------------------------------
