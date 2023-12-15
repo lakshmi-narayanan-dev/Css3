@@ -66,9 +66,12 @@ id selector >> class selector >> element selector
 **Types of color css**
 - Color name = orange blue
 - hexadecimal code = #fff000 [0-9] + [a-f]
-- rgb (200, 255 , 0) = [0-255]
+- rgb (200, 255 , 0) = [0-255] [0-100%]
 - rgba (200. 255 , 0 , .5) = opacity [0 to 1 , decimal value accepted]
+- Color pallete selection with hovering over css color properties with opacity
+- hsl (200, 255 , 0) = [0-255] [0-100%] = hue saturation lightness
 
+https://coolors.co/ - colors contrast trending vectors checking
 
 
 ------------------------------------------------------------------------------------------------------
