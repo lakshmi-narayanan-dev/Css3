@@ -46,10 +46,18 @@ parent child selectors - div span{}
 Css Selector works as it acronym cascading like a waterfall [top to down]
 
 inherit property >> body it only applies to the body tag , whereas * applies to all elements like span p div h2 h3 ....
+form element don't inherit the body/html property like font, border , margin , padding.
+
+main element/selector = 1 per page = semantic tag 
+
+**specificity css works**
+id selector >> class selector >> element selector
+
 
 ------------------------------------------------------------------------------------------------------
 ## **Lession 03**
 
+### Colors
 
 
 ------------------------------------------------------------------------------------------------------
