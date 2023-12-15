@@ -36,7 +36,7 @@ property (font-size, display , position) : property-value (50px , 10rem , 100% ,
 
 Css validator W3C -> [Css validate](https://jigsaw.w3.org/css-validator/) 
 
-### **Lession 02 - Selectors**
+### `Lession 02 - Selectors`
 class - .demo
 id - #name
 tag - p div span
@@ -50,14 +50,12 @@ inherit property >> body it only applies to the body tag , whereas * applies to 
 form element don't inherit the body/html property like font, border , margin , padding.
 
 main element/selector = 1 per page = semantic tag 
-
-**specificity css works**
+specificity css works
 id selector >> class selector >> element selector
 
-### **Lession 03 - Colors**
+### `Lession 03 - Colors`
 140 standard color names available in [html/vscode](https://www.w3schools.com/colors/colors_names.asp) 
-
-**Types of color css**
+Types of color css
 - Color name = orange blue
 - hexadecimal code = #fff000 [0-9] + [a-f]
 - rgb (200, 255 , 0) = [0-255] [0-100%]
@@ -69,19 +67,13 @@ Hue - degree of color [0 to 359] , Saturation - shade of gray value [0 to 100%] 
 
 https://coolors.co/ - colors contrast trending vectors checking
 
-
-------------------------------------------------------------------------------------------------------
-## **Lession 04**
-------------------------------------------------------------------------------------------------------
-
-### Units & Sizes
+### `Lession 04 - Units & Sizes`
 rem - root em
 em - parent em
 em has no name
 
 By default 1rem = 16px ;
-
-**Absolute value vs relative values in units**
+Absolute value vs relative values in units
 
 
 
