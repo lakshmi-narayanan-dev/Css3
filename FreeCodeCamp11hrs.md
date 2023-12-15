@@ -30,6 +30,8 @@ selector (class,id,tag) {
 property (font-size, display , position) : property-value (50px , 10rem , 100% , red , #kvnk) ;
 }
 
+Css validator W3C -> https://jigsaw.w3.org/css-validator/ 
+
 
 
 ------------------------------------------------------------------------------------------------------
