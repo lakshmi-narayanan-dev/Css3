@@ -18,8 +18,12 @@ Types of Styling:
 - External
 
 Style Applies on order of precedence
+The !important css over rides all the order of precedence.
+You should use only one !important.
 
 link rel="stylesheet" => import the file as stylesheet
+link rel="canonical" =>
+link rel="author" => 
 
 
 ------------------------------------------------------------------------------------------------------
