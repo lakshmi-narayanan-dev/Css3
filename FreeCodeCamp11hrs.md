@@ -45,7 +45,7 @@ parent child selectors - div span{}
 
 Css Selector works as it acronym cascading like a waterfall [top to down]
 
-
+inherit property >> body it only applies to the body tag , whereas * applies to all elements like span p div h2 h3 ....
 
 ------------------------------------------------------------------------------------------------------
 ## **Lession 03**
