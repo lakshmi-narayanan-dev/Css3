@@ -79,3 +79,42 @@ https://coolors.co/ - colors contrast trending vectors checking
 ------------------------------------------------------------------------------------------------------
 ## **Lession 04**
 ------------------------------------------------------------------------------------------------------
+
+### Units & Sizes
+rem - root em
+em - parent em
+em has no name
+
+By default 1rem = 16px ;
+
+**Absolute value vs relative values in units**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
