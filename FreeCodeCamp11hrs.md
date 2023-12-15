@@ -47,7 +47,6 @@ Css Selector works as it acronym cascading like a waterfall [top to down]
 
 
 
-
 ------------------------------------------------------------------------------------------------------
 ## **Lession 03**
 
