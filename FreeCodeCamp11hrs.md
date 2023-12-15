@@ -5,24 +5,18 @@
 ### [Download any website to zip](https://www.google.com/search?channel=fs&client=ubuntu-sn&q=save+web+2+zip)
 
 
-**HTML5 + CSS3**
------------------
+### **HTML5 + CSS3**
 Css3 - Cascading Style Sheets 
 Stylesheet Document >> Describe >> Presentation of a document written in Html / Xml [svg] 
 Html is Building Structure & Css is the paint & carpets
 
-## **Prerequisites**
+### **Prerequisites**
 
 Browser - Chrome , firefox , edge , Brave , safari[iOS]
 Vs code - Html css extension - Live Server extension
 
-------------------------------------------------------------------------------------------------------
-## **Lession 01**
-------------------------------------------------------------------------------------------------------
-
+### **Lession 01 - Types of Styling**
 `! in vs code for html predefined structure to show`
-
-### Types of Styling: 
 - inline
 - internal
 - External
@@ -42,11 +36,7 @@ property (font-size, display , position) : property-value (50px , 10rem , 100% ,
 
 Css validator W3C -> [Css validate](https://jigsaw.w3.org/css-validator/) 
 
-------------------------------------------------------------------------------------------------------
-## **Lession 02**
-------------------------------------------------------------------------------------------------------
-
-### Selectors
+### **Lession 02 - Selectors**
 class - .demo
 id - #name
 tag - p div span
@@ -64,12 +54,7 @@ main element/selector = 1 per page = semantic tag
 **specificity css works**
 id selector >> class selector >> element selector
 
-
-------------------------------------------------------------------------------------------------------
-## **Lession 03**
-------------------------------------------------------------------------------------------------------
-
-### Colors
+### **Lession 03 - Colors**
 140 standard color names available in [html/vscode](https://www.w3schools.com/colors/colors_names.asp) 
 
 **Types of color css**
