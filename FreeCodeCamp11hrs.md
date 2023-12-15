@@ -58,6 +58,9 @@ id selector >> class selector >> element selector
 ## **Lession 03**
 
 ### Colors
+140 standard color names available in [html/vscode](https://www.w3schools.com/colors/colors_names.asp) 
+
+
 
 
 ------------------------------------------------------------------------------------------------------
