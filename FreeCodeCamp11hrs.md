@@ -12,7 +12,7 @@ Vs code - Html css extension - Live Server extension
 
 `! in vs code for html predefined structure to show`
 
-Types of Styling: 
+### Types of Styling: 
 - inline
 - internal
 - External
@@ -24,6 +24,11 @@ You should use only one !important.
 link rel="stylesheet" => import the file as stylesheet
 link rel="canonical" =>
 link rel="author" => 
+
+### css code syntax:
+selector (class,id,tag) {
+property (font-size, display , position) : property-value (50px , 10rem , 100% , red , #kvnk)
+
 
 
 ------------------------------------------------------------------------------------------------------
