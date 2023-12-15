@@ -2,9 +2,10 @@
 
 ------------------------------------------------------------------------------------------------------
 
-**Prerequisites**
+## **Prerequisites**
+
 Browser - Chrome , firefox , edge , Brave , safari[iOS]
 Vs code - Html css extension - Live Server 
 
 
-**Lession 01**
+## **Lession 01**
