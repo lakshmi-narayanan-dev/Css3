@@ -38,6 +38,10 @@ Css validator W3C -> [Css validate](https://jigsaw.w3.org/css-validator/)
 ## **Lession 02**
 
 ### Selectors
+class - .demo
+id - #name
+tag - p div span
+body , html , * - universal or document level declaration 
 
 
 
