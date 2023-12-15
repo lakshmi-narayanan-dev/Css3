@@ -10,4 +10,4 @@ Vs code - Html css extension - Live Server
 
 ## **Lession 01**
 
-> ! in vs code for html predefined structure to show
+`! in vs code for html predefined structure to show`
