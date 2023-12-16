@@ -66,6 +66,8 @@ Types of color css
 Hue - degree of color [0 to 359] , Saturation - shade of gray value [0 to 100%] , Lightness - opacity [0 to 100%]
 
 https://coolors.co/ - colors contrast trending vectors checking
+https://colourcontrast.cc/ =  Contrast Colors Checker
+https://cssgradient.io/ = Gradient Color Generator
 
 ### `Lession 04 - Units & Sizes`
 rem - root em
