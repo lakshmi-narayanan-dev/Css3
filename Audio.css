@@ -1,0 +1,11 @@
+
+    <!-- Audio BG Play -->
+    <audio id="myAudio" controls autoplay loop>
+        <source src="./assets/Audio1.mp3" type="audio/mp3">
+        Your browser does not support the audio element.
+    </audio>
+
+
+  #myAudio{
+    display : none;
+  }
