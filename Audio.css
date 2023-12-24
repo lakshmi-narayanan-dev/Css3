@@ -1,11 +1,17 @@
-
-    <!-- Audio BG Play -->
+<!-- Audio BG Play -->
     <audio id="myAudio" controls autoplay loop>
         <source src="./assets/Audio1.mp3" type="audio/mp3">
         Your browser does not support the audio element.
     </audio>
 
 
-  #myAudio{
+#myAudio{
     display : none;
   }
+
+
+As per 2017 audio policy in chrome,
+https://developer.chrome.com/blog/autoplay
+
+muted video autoplay is allowed.
+audio present and muted.
