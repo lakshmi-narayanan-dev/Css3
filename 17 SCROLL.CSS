@@ -1,0 +1,18 @@
+The code is not working to improve using surfing.
+
+Custom scrollbar - https://developer.mozilla.org/en-US/docs/Web/CSS/::-webkit-scrollbar 
+
+::webkit-scrollbar {
+Width : 15px;
+}
+
+::webkit-scrollbar-track{
+Background : yellow;
+}
+
+::webkit-scrollbar-thumb + hover{
+Border radius: 10px;
+Bg : red;
+}
+
+For firefox, you can use scrollbar-color & scrollbar-width
