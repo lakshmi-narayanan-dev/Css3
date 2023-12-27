@@ -30,3 +30,14 @@ width / font-size : clamp(100px , 70% , 300px);
 Blend Mode 
 --------------
 when should we use it ? - When 
+
+--------------
+Aspect ratio 
+--------------
+.element{
+width : 100%;
+Aspect-ratio ; 3/2;
+}
+
+To get uniform image size irrespective of screens
+
