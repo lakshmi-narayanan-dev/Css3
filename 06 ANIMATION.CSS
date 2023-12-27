@@ -1,0 +1,5 @@
+----------------------
+Shorthand Css
+----------------------
+animation : animation-name animation-duration timing-function animation-delay animation-repeat-count
+eg: zoomineffect 6s ease-in-out 2s infinite;
