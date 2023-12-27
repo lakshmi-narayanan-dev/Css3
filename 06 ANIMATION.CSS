@@ -3,3 +3,20 @@ Shorthand Css
 ----------------------
 animation : animation-name animation-duration timing-function animation-delay animation-repeat-count
 eg: zoomineffect 6s ease-in-out 2s infinite;
+
+------------------------
+Letter Typing Effect
+------------------------
+Animation-direction: alternative; [use to go alternative direction]
+
+Typing effect in Css ->
+.parent h1{
+Width : 10ch;
+Overflow : hidden ;
+animation : type 2.5s steps(10) infinite alternative-reverse;
+}
+
+@keyframes typing {
+from { width : 0ch;}
+to {width : 10ch;}
+}
