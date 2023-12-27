@@ -15,3 +15,16 @@ Flex / align items [center, flex-end, flex-start] / justify-content [center, fle
 Grid
 -----
 Grid / grid-template-rows / grid-template-columns / grid-gap
+
+Grid -> element {
+display : grid;
+	Place-item : center;
+	}
+	
+.container {
+  grid-template-columns: 1fr 1fr 40px 20%;
+  grid-template-rows: 100px 200px 100px;
+grid-gap : 200px 500px; [x,y]
+}
+
+1fr - fractional unit.
