@@ -6,3 +6,10 @@ transform : translate , translateX , translateY (px / rem / %)
 transform : skew (10deg ) (20deg , 50deg)
 
 We can use all transform properties in a single css line to a container.
+
+----------------
+Perceptive
+----------------
+Perceptive - Use to show how far the object is seen from the user's eyes.
+Parent > perceptive : 200px / 10rem
+Child > transform-style : preserve-3d [to make it merge all 3 directions]
