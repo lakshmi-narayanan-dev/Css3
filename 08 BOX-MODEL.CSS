@@ -6,6 +6,13 @@ Border thickness- border style - border color
 
 Nested border => Outer border radius = inner border radius + Sizing between them
 
+----------
+INSET CSS
+----------
 inset : top right bottom left;
 We can use inset to give inset values as shorthand
 
+------------
+OFFSET CSS
+------------
+https://www.w3schools.com/cssref/tryit.php?filename=trycss_offset
