@@ -1,0 +1,17 @@
+----------------
+Display
+----------------
+inline [start with space available like span img a tags][can't give width and height]
+block [start with new line like div p tags][height width can be given]
+inline-block [act a block to all element]
+none has display : hidden [no empty spaces] and visibility : hidden [leaves empty spaces]
+
+Flex are 1D & Grids are 2D
+
+Flex
+-----
+Flex / align items [center, flex-end, flex-start] / justify-content [center, flex-end, flex-start, space-around, space-between]
+
+Grid
+-----
+Grid / grid-template-rows / grid-template-columns / grid-gap
