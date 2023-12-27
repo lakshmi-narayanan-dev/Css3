@@ -1,0 +1,8 @@
+Transform Property
+transform : rotate (20deg) -> rotate the container to the specified degree
+Transform : rotate (100turn) to use it in animation or transition
+transform : scale(2) , scale (2,1.5) (x,y) 
+transform : translate , translateX , translateY (px / rem / %)
+transform : skew (10deg ) (20deg , 50deg)
+
+We can use all transform properties in a single css line to a container.
