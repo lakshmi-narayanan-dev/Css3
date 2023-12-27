@@ -1,7 +1,7 @@
 -------------------
 Google Fonts
 -------------------
-Lexend , lato , Joseph Sans, Poppins , Montserrat, Poiret One, Averta Sans-Seriff, Rubik , Gabarito
+Lexend , lato , Joseph Sans, Poppins , Montserrat, Poiret One, Averta Sans-Seriff, Rubik , Gabarito , Fredoka
 Import is used for save time & space
 Link tag we have to place it in every html tag
 
@@ -39,3 +39,14 @@ html {
     /* Give Other container as rem value so 1rem = 16px  */
     /* rem - root size , em - parent size */
 }
+
+----------------------
+Link vs Import Fonts
+-----------------------
+https://dev.to/alteca/vs-import-which-should-you-use-to-get-fonts-296l#:~:text=The%20element%20is%20a,files%20for%20it%20to%20function. 
+
+-----------------
+Fonts Optimization
+-----------------
+https://nitropack.io/blog/post/font-loading-optimization 
+
