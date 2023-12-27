@@ -4,6 +4,8 @@ Shorthand
 border : 2px solid/dotted/none black
 Border thickness- border style - border color
 
+Nested border => Outer border radius = inner border radius + Sizing between them
+
 inset : top right bottom left;
 We can use inset to give inset values as shorthand
 
