@@ -39,3 +39,8 @@ View Page Source
 ------------------------------
 https://www.view-page-source.com/
 
+------------------------
+Medium Blogs
+------------------------
+https://webcache.googleusercontent.com/search?q=cache:https://javascript.plainenglish.io/use-chrome-devtools-like-a-senior-frontend-developer-97ad3ee47647&sca_esv=590835004&strip=1&vwsrc=0
+
