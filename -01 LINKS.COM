@@ -9,6 +9,15 @@ https://www.free-css.com/
 https://htmlcodex.com/
 https://templatemo.com/
 
+------------------------
+CHEATSHEET
+------------------------
+https://overapi.com/
+https://andreasbm.github.io/web-skills/
+https://www.w3docs.com/
+https://www.100daysofcode.com/ 
+https://devdocs.io/ 
+
 --------------------------------
 Personal Portfolio Link
 --------------------------------
