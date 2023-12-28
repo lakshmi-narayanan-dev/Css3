@@ -29,6 +29,7 @@ Company Page Link
 ---------------------------------
 https://www.svgator.com/
 https://www.twine.net/ai
+https://www.lifewire.com/free-cloud-storage-1356638 [Good]
 
 ------------------------------
 Specific Section/Feature
