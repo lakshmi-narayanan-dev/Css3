@@ -1,0 +1,25 @@
+—--------------------------------------
+RESPONSIVE
+—--------------------------------------
+https://responsivedesignchecker.com
+https://www.freecodecamp.org/learn/2022/responsive-web-design/ 
+
+
+--------------
+Media Queries
+--------------
+@media screen and (min-width : 1600px) {
+big screen laptop
+}
+@media screen and (min-width : 1200px) {
+old laptops
+}
+@media screen and (min-width : 800px) {
+Tablets + Mobile landscape
+}
+@media screen and (min-width : 400px) {
+Mobile Big screens
+}
+@media screen and (min-width : 300px) {
+Mobile low resolution
+}
