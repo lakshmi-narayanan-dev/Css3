@@ -14,6 +14,13 @@ body {
 ---------------------
 Custom Preferred Fonts
 ----------------------
+Syntax for Custom Fonts -  @font-family { font name : custom-name1 ; url : (../relative path) , format ('ttf/otf/woff2/woff); font-display : swap / fallback ; 
+selector { font-family : custom-name1 ; font-weight : value ; }
+
+
+
+
+
 https://codepen.io/about - Font
 
 Use this link download all modern Fonts
