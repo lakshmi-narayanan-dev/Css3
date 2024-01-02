@@ -23,6 +23,7 @@ Personal Portfolio Link
 --------------------------------
 https://damian.drygiel.com/
 https://github.com/LakshmiNarayaanan?tab=overview&from=2023-12-01&to=2023-12-25 - Github Readme 
+https://sandeepbalachandran.vercel.app/ - Skills
 
 ---------------------------------
 Company Page Link
