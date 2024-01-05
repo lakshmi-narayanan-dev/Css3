@@ -43,3 +43,16 @@ Aspect-ratio ; 3/2;
 
 To get uniform image size irrespective of screens
 
+
+
+-----------------------------------
+open image in new tab by clicking
+----------------------------------
+
+< img src= "" alt = "" title = ""  onclick = " FunctionName() "
+
+<script>
+	function FunctionName() {
+	window.open (this.src , '_blank/_self/_parent' ) ;
+
+</script>
