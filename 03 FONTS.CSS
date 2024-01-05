@@ -7,7 +7,7 @@ Seriff means slight finishing stroke to a letter and sans means without = sans s
 ----------------
 Import vs Link
 ---------------
-Import is used for save time & space - It is the clear winner.
+Import is used for save time & space - It is the clear winner. It should be places in the 1st line of css file.
 @import url('https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
 body {
     font-family: 'Rubik', sans-serif !important;
@@ -33,10 +33,11 @@ Absolute value avoid like pt vh , but we can use pixels (px).
 ---------------------------------
 Types of Custom Fonts extensions
 ----------------------------------
-woff2
-woff 
-otf
-ttf
+woff is the compatible font extension supported by all browsers in market.
+woff2 = web open font format v2
+woff = web open font format 
+otf = Open Type Format = Print 
+ttf = True Type Format = Digital
 
 ----------------------------------------
 Use this link download all modern Fonts
