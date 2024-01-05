@@ -1,6 +1,20 @@
 -----------
 Selectors
 -----------
+----------------------------------------------------
+body {
+only body element , more specific compare to html
+} 
+
+html {
+only html tag
+}
+
+* {
+all selectors at one call
+}
+
+----------------------------------------------------
 
 Selector - nth child
 :first-child
