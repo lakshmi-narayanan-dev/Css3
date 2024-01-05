@@ -73,7 +73,16 @@ html {
 -----------------
 Fonts Optimization
 -----------------
+FOIT - Flash of Invisible Text - Text is hidden untill the font is downloaded
+FOUT - Flash of unstyled Text - Default font is shown then upgrades to custom font
+
 https://nitropack.io/blog/post/font-loading-optimization 
+https://cdn-aahbe.nitrocdn.com/atRjhaAsMHbPaZMOukHscOVOXfGAsiqT/assets/images/optimized/rev-e4e59c0/nitropack.ams3.digitaloceanspaces.com/upload/blog/font-display_values_6f10.PNG
+
+font-display : swap / fallback / block / optional
+swap = No delay straight away show web font , trustrace use swap
+fallback = 100ms block > 3s time to load if its not > maintain fallback
+optional =
 
 -----------------
 Shorthand Css
